@@ -1,0 +1,9 @@
+[package]
+name = "smallest_number"
+version = "0.1.0"
+edition = "2021"
+authors = ["aliezzahn <aliezzahn@gmail.com>"]
+description = "A library to find the smallest number with a digit product divisible by a given target."
+license = "MIT"
+
+[dependencies]
